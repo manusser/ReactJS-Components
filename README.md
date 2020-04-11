@@ -7,7 +7,7 @@ At first, you need to import it via:
 import CryptoAPI from './CryptoAPI'
 ```
 
-Now you can use it:
+Now you can use it via:
 ```jsx
 <CryptoAPI name="bitcoin" />
 ```
