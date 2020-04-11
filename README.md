@@ -8,7 +8,7 @@ import CryptoAPI from './CryptoAPI'
 ```
 
 Now you can use it:
-```javascript
+```jsx
 <CryptoAPI name="bitcoin" />
 ```
 
