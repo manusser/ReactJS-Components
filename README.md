@@ -28,5 +28,5 @@ You can edit the display mode via:
    }
 ```
 
-## Learn more about this API at [Rapidapi](https://rapidapi.com/Gramzivi/api/covid-19-data?endpoint=apiendpoint_90422c25-72f4-4e9a-a792-67e3dc7553a1)
+## Learn more about this API at [Rapidapi](https://rapidapi.com/coingecko/api/coingecko)
 
