@@ -52,7 +52,7 @@ class CryptoAPI extends Component {
       return <div>Loading...</div>;
     } else {
       return (
-        <div key={item.name}>{item.name} {item.market_data.current_price.usd}</div>
+        <div key={item.name}>{item.name}:{item.market_data.current_price.usd}</div>
       );
     }
   }
